@@ -11,8 +11,7 @@ Fine-tune a transformer model to classify news headlines into World, Sports, Bus
 
 ## Deployment
 Live demo on Hugging Face Spaces:  
-[https://huggingface.co/spaces/narmeenbilal/news-classifier-demo](https://huggingface.co/spaces/narmeenbilal/news-classifier-demo)
-
+https://huggingface.co/spaces/narmeenbilal/News-Classifier
 ## Repository Structure
 - `train_notebook.ipynb` – training code (Google Colab)
 - `app.py` – Gradio app script
